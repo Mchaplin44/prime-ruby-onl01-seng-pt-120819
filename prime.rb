@@ -1,1 +1,1 @@
-def prime_num()
+def prime_num(num)
