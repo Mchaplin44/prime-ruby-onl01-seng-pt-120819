@@ -1,1 +1,3 @@
-def prime_num(num)
+def prime_num(num) do |num|
+  if num.l
+  
